@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color: black;
+}
+.inputs{
+    border-radius: 20px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    width: 40%;
+    padding: 15px;
+}
+#convert-btn{
+background-color: yellow;
+padding:10px ;
+width: 80px;
+}
+#output{
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color:rgb(165, 42, 97);
+    width:40%;
+    padding: 20px;
+    border-color: brown;
+}
